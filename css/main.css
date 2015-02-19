@@ -1,0 +1,31 @@
+body{
+	background-color: rgb(44, 114, 219);
+	text-align: center;
+	font-family: arial;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+h1{
+	font-size: 2.4em;
+}
+
+#box{
+	border: 2px solid rgb(78, 144, 243);
+	border-radius: 5px;
+	display: inline-block;
+	margin: 0 auto;
+	padding: 1em;
+	background-color: rgb(118, 170, 247);
+}
+
+#box > p{
+	
+}
+
+.p404{
+	font-size: 5em;
+}
